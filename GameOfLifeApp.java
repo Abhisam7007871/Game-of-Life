@@ -77,6 +77,7 @@ class GameOfLife {
     }
 }
 
+
 class GridInputHandler {
     private final Scanner scanner;
 
